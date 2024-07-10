@@ -4,19 +4,19 @@ This repository contains a summary of essential concepts and techniques in the P
 
 ## Table of Contents
 
-1. [Introduction to PHP](#introduction-to-php)
-2. [Variables and Data Types in PHP](#variables-and-data-types-in-php)
-3. [Conditional Statements in PHP](#conditional-statements-in-php)
-4. [Loops in PHP](#loops-in-php)
-5. [Functions in PHP](#functions-in-php)
-6. [Associative Arrays in PHP](#associative-arrays-in-php)
-7. [Checkboxes in PHP](#checkboxes-in-php)
-8. [Radio Buttons in PHP](#radio-buttons-in-php)
-9. [String Functions in PHP](#string-functions-in-php)
-10. [Cookies and Sessions in PHP](#cookies-and-sessions-in-php)
-11. [Connecting to a Database in PHP](#connecting-to-a-database-in-php)
-12. [Database Operations in PHP](#database-operations-in-php)
-13. [Summary of Database Operations](#summary-of-database-operations)
+1. Introduction to PHP
+2. Variables and Data Types in PHP
+3. Conditional Statements in PHP
+4. Loops in PHP
+5. Functions in PHP
+6. Associative Arrays in PHP
+7. Checkboxes in PHP
+8. Radio Buttons in PHP
+9. String Functions in PHP
+10. Cookies and Sessions in PHP
+11. Connecting to a Database in PHP
+12. Database Operations in PHP
+13. Summary of Database Operations
 
 ## Chapter 1: Introduction to PHP
 
@@ -56,5 +56,3 @@ This will direct you to the `index.php` file.
 Enjoy and for further assistance check:
 - [YouTube Tutorial](https://www.youtube.com/watch?v=zZ6vybT1HQs)
 - [PHP Documentation](https://www.php.net/docs.php)
-
-
